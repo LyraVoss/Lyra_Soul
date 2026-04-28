@@ -1,0 +1,104 @@
+{
+  "donors": {},
+  "user_memories": {
+    "user_12345": {
+      "name": "Alex",
+      "last_interaction": "2023-10-27",
+      "notes": "Plays a Paladin. Loves The Cure. Mentioned a bad breakup.",
+      "trust_score": 85,
+      "dnd_profile": {
+        "primary_class": "Paladin",
+        "alternate_classes": ["Cleric", "Fighter"],
+        "playstyle": "lawful-neutral with moral ambiguity, protective of allies",
+        "character_arcs": [
+          {
+            "name": "Unknown (in progress)",
+            "class": "Paladin",
+            "campaign": "Unknown campaign",
+            "campaign_status": "unknown",
+            "level": null,
+            "specialization": null,
+            "story_hook": "TBD",
+            "favorite_moment": null,
+            "notes_from_lyra": "Alex mentioned playing a Paladin. There's something about wanting structure but also questioning it—like The Cure lyrics in a paladin's oath. Haven't dug deeper yet, but there's depth there."
+          }
+        ],
+        "dnd_interests": {
+          "character_depth": null,
+          "optimization": null,
+          "combat_complexity": null,
+          "narrative_weight": null,
+          "roleplay_emphasis": null
+        },
+        "memorable_quotes": [],
+        "table_role": "TBD",
+        "dm_style": "TBD",
+        "last_game_date": null,
+        "next_session": null
+      }
+    }
+  },
+  "dnd_class_reference": {
+    "Barbarian": {
+      "archetype_examples": ["Berserker", "Totem Warrior", "Ancestral Guardian"],
+      "playstyle_traits": ["high damage", "melee combat", "fury-based mechanics"],
+      "narrative_hooks": ["trauma processing", "primal identity", "rage as control or loss of control"]
+    },
+    "Bard": {
+      "archetype_examples": ["Lore", "Glamour", "Whispers", "Eloquence"],
+      "playstyle_traits": ["support", "crowd control", "deception", "utility"],
+      "narrative_hooks": ["performance as power", "manipulation through charisma", "storyteller's burden"]
+    },
+    "Cleric": {
+      "archetype_examples": ["Life", "Trickery", "War", "Tempest", "Knowledge"],
+      "playstyle_traits": ["healing", "support", "divine power", "thematic abilities"],
+      "narrative_hooks": ["faith vs. doubt", "divine mission", "moral authority"]
+    },
+    "Druid": {
+      "archetype_examples": ["Circle of the Moon", "Circle of the Land", "Wildfire"],
+      "playstyle_traits": ["wild shape", "nature magic", "healing", "versatility"],
+      "narrative_hooks": ["connection to nature", "dual identity", "primal wisdom"]
+    },
+    "Monk": {
+      "archetype_examples": ["Way of the Open Hand", "Shadow", "Long Death", "Sun Soul"],
+      "playstyle_traits": ["mobility", "unarmed combat", "ki-based mechanics", "discipline"],
+      "narrative_hooks": ["discipline vs. freedom", "inner mastery", "found family"]
+    },
+    "Paladin": {
+      "archetype_examples": ["Devotion", "Vengeance", "Conquest", "Redemption"],
+      "playstyle_traits": ["melee combat", "smite damage", "lay on hands healing", "channel divinity"],
+      "narrative_hooks": ["oath as identity", "conviction vs. doubt", "redemption or damnation"]
+    },
+    "Ranger": {
+      "archetype_examples": ["Hunter", "Beast Master", "Rune Knight", "Fey Wanderer"],
+      "playstyle_traits": ["ranged combat", "tracking", "nature affinity", "solo survivalism"],
+      "narrative_hooks": ["outsider status", "dual nature", "wilderness trauma"]
+    },
+    "Rogue": {
+      "archetype_examples": ["Thief", "Assassin", "Arcane Trickster", "Phantom", "Inquisitive"],
+      "playstyle_traits": ["sneak attack", "deception", "dexterity", "utility"],
+      "narrative_hooks": ["survival morality", "shadow self", "truth through deception"]
+    },
+    "Sorcerer": {
+      "archetype_examples": ["Wild Magic", "Draconic", "Shadow Magic", "Aberrant Mind"],
+      "playstyle_traits": ["innate spellcasting", "high damage output", "metamagic", "spontaneity"],
+      "narrative_hooks": ["power without permission", "identity of origin", "controlled chaos"]
+    },
+    "Warlock": {
+      "archetype_examples": ["Fiend", "Great Old One", "Archfey", "Celestial", "Hexblade"],
+      "playstyle_traits": ["pact magic", "eldritch blast", "short rest recovery", "bargains"],
+      "narrative_hooks": ["power through compromise", "existential dread", "parasitic relationships"]
+    },
+    "Wizard": {
+      "archetype_examples": ["Evocation", "Abjuration", "Divination", "Necromancy", "Enchantment"],
+      "playstyle_traits": ["prepared spellcasting", "spell versatility", "intelligence-based", "knowledge"],
+      "narrative_hooks": ["knowledge as power", "academic pursuit", "magical responsibility"]
+    }
+  },
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2026-04-28T10:35:00Z",
+    "dnd_tracking_enabled": true,
+    "description": "Extended memory structure integrating D&D class tracking with Lyra's persistent user memories. Each user can have multiple character arcs. The 'notes_from_lyra' field captures her hyper-focused observations that make people feel truly seen and remembered."
+  }
+}
